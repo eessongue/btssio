@@ -47,6 +47,8 @@
 - [ ] **B1.6 — Organiser son développement professionnel :** [Justification courte]
 
 ## 7. BILAN RÉFLEXIF ET AUTO-ÉVALUATION
-- **Points forts :** Ce qui a fonctionné de manière fluide et efficace.
-- **Axes d'amélioration :** Ce qui aurait pu être optimisé (sécurité, automatisation, respect du calendrier).
+- **Points forts :** La recherche et la mise en page de ce que j'ai appris durant les différents cours en HTML 
+
+- **Axes d'amélioration :** Automatisation du site qui est à revoir.
+
 - **Compétences professionnelles consolidées :** Quels acquis méthodologiques ou techniques retirez-vous de cette mission ?
